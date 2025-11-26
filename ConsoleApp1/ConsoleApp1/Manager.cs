@@ -1,5 +1,5 @@
 ﻿namespace ConsoleApp1;
 
-public class Manager
+public class Manager:Person
 {
 }

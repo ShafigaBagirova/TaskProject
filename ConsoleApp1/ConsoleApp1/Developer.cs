@@ -1,5 +1,6 @@
 ﻿namespace ConsoleApp1;
 
-public class Developer
+public class Developer:Person
 {
+
 }
