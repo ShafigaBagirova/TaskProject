@@ -4,6 +4,6 @@ public class Developer:Person
 {
     public override void ShowInfo()
     {
-        Console.WriteLine("Developer created");
+        Console.WriteLine($"Developer:{Name} Developer: {Surname}");
     }
 }

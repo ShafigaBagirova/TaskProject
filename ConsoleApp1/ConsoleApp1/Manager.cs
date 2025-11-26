@@ -4,6 +4,6 @@ public class Manager:Person
 {
     public override void ShowInfo()
     {
-        Console.WriteLine("Manager created");
+        Console.WriteLine($"Manager:{Name} Manager: {Surname}");
     }
 }

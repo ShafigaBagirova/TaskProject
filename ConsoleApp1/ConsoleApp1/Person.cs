@@ -6,6 +6,6 @@ public class Person
     public string Surname { get; set; }
     public virtual void  ShowInfo()
     {
-        Console.WriteLine("Person created");
+        Console.WriteLine($"Person:{Name} person: {Surname}");
     }
 }
