@@ -2,4 +2,8 @@
 
 public class Manager:Person
 {
+    public override void ShowInfo()
+    {
+        Console.WriteLine("Manager created");
+    }
 }

@@ -2,5 +2,8 @@
 
 public class Developer:Person
 {
-
+    public override void ShowInfo()
+    {
+        Console.WriteLine("Developer created");
+    }
 }
